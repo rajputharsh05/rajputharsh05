@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning **Fast API**
 
 - 💬 Ask me about **React.js, Node.js , Express.js  and MongoDB**
-- 
+  
 - 💬 Ask me about **Data Stsructure and Algorithms**
 
 - 📫 How to reach me **harshkumarsingh600@gmail.com**
 
-- ⚡ Fun fact **DSA matters !!**
+- ⚡ Fun fact **DP is easy !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
