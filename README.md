@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fast API**
 
-- 💬 Ask me about **react, node , express**
+- 💬 Ask me about **React.js, Node.js , Express.js  and MongoDB**
 
 - 📫 How to reach me **harshkumarsingh600@gmail.com**
 
