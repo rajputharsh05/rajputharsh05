@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
-<h3 align="center">A Full Stack Engineer !.</h3>
+<h3 align="center">A Full Stack Engineer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputharsh05&label=Profile%20views&color=0e75b6&style=flat" alt="rajputharsh05" /> </p>
 
@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Fast API**
 
 - 💬 Ask me about **React.js, Node.js , Express.js  and MongoDB**
+- 
+- 💬 Ask me about **Data Stsructure and Algorithms**
 
 - 📫 How to reach me **harshkumarsingh600@gmail.com**
 
