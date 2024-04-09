@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/rajput_harsh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajput_harsh05" height="30" width="40" /></a>
 </p>
 
-[![rajputharsh05's GitHub | Topics Over Time](https://stats.quine.sh/rajputharsh05/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rajputharsh05)
+[![rajputharsh05's GitHub | Stats](https://stats.quine.sh/rajputharsh05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rajputharsh05)
 
 
 <h3 align="left">Languages and Tools:</h3>
