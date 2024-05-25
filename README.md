@@ -16,9 +16,6 @@
 
 - ⚡ Fun fact **DP is easy !**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/rajput_harsh05" target="blank"><img align="center" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
